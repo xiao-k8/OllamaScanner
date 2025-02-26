@@ -1,4 +1,4 @@
-![[icon.webp]]
+![alt icon](https://github.com/xiao-k8/OllamaScanner/blob/main/image/icon.webp)
 
 # 说明
 
