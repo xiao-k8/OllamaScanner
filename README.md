@@ -1,4 +1,4 @@
-![alt Icon](https://github.com/xiao-k8/OllamaScanner/blob/main/image/icon.webp#pig_center =300x)
+![alt Icon](https://github.com/xiao-k8/OllamaScanner/blob/main/image/icon_small.jpg#pig_center)
 # 说明
 
 主要用于扫描内网或者互联网开放的Ollama服务（默认11434端口）
